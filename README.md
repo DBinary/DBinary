@@ -1,7 +1,7 @@
 
 <div align="center">
 
-###  I'm DBinary，a Ph.D student at School of Life Science of Westlake University. 👋🏻
+###  I'm DBinary，a research intern at AIR, Tsinghua University. 👋🏻
 	
 # Click: [dbinary.github.io](https://dbinary.github.io/)
 	
