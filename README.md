@@ -1,7 +1,7 @@
 
 <div align="center">
 
-###  I'm DBinary，an incoming Ph.D. Student at ([AICB Lab](https://en.westlake.edu.cn/faculty/jianyang-zeng.html)), Westlake University. 👋🏻
+###  I'm DBinary，an incoming Ph.D. Student at [AICB Lab](https://en.westlake.edu.cn/faculty/jianyang-zeng.html), Westlake University. 👋🏻
 	
 # Click: [dbinary.github.io](https://dbinary.github.io/)
 	
