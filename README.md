@@ -1,7 +1,7 @@
 
 <div align="center">
 
-##  I'm DBinary，a first-year Ph.D. Student at Westlake University. 👋🏻
+##  I'm DBinary，a first-year Ph.D. student at Westlake University. 👋🏻
 	
 ## Click: [dbinary.github.io](https://dbinary.github.io/)
 	
