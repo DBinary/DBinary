@@ -21,4 +21,4 @@
 
 * 🎓 Conducting research on **AI for Life Sciences** @ [AICB Lab](https://aicb.lab.westlake.edu.cn/People.htm) and Cell Biology Lab.
 
-* 💻 Currently studying on School of Life Sciences, Westlake University @ (https://sls.westlake.edu.cn/)).
+* 💻 Currently studying on @ [School of Life Sciences, Westlake University](https://sls.westlake.edu.cn/)).
