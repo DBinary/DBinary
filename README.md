@@ -16,8 +16,8 @@
 
 <br/> 
 
-<a href="https://github.com/Starlitnightly">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Starlitnightly&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="https://github.com/DBinary">
+    <img src="https://github-stats-alpha.vercel.app/api?username=DBinary&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 
 * 🎓 Conducting research on **AI** and **Bioinformatics** @ [the 112 Lab](https://112lab.asia/).
 
