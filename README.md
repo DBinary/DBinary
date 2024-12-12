@@ -19,8 +19,6 @@
 <a href="https://github.com/DBinary">
     <img src="https://github-stats-alpha.vercel.app/api?username=DBinary&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 
-* 🎓 Conducting research on **AI** and **Bioinformatics** @ [the 112 Lab](https://112lab.asia/).
+* 🎓 Conducting research on **AI for Life Sciences** @ [AICB Lab](https://aicb.lab.westlake.edu.cn/People.htm) and Cell Biology Lab.
 
-* 💡 Open to collaborating on projects and innovative ideas. 
-
-* 💻 Currently studying on Daxing Research @ [University of Science and Technology Beijing](https://en.ustb.edu.cn/).
+* 💻 Currently studying on School of Life Sciences, Westlake University @ (https://sls.westlake.edu.cn/)).
