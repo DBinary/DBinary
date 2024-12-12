@@ -23,4 +23,4 @@
 
 * 💻 Currently studying on @ [School of Life Sciences, Westlake University](https://sls.westlake.edu.cn/).
 .
-* 👑 funded by the Fundamental Research Project for Young Ph.D. Students from National Natural Science Foundation of China.
+* 👑 Funded by the Fundamental Research Project for Young Ph.D. Students from National Natural Science Foundation of China.
