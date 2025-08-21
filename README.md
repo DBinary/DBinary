@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/DBinary">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Lei+Hu;Second+year+Ph.D.+Student+%7C+Westlake+University;Multi+Omics+%7C+AI+For+Life+Sciences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Lei+Hu;Third+year+Ph.D.+Student+%7C+Westlake+University;Multi+Omics+%7C+AI+For+Life+Sciences" alt="Typing SVG" />
 </a>
 <br/>
 
